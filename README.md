@@ -1,2 +1,2 @@
 # test-playtomax
-game suits
+game 
